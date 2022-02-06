@@ -6,6 +6,8 @@ The generated Music by COMP790 homework neural network.
 .
 
 
+## Title
+
 If your PC could not play midi, try to use https://onlinesequencer.net/import
 
 Here are some example:
